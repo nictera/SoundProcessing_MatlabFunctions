@@ -1,7 +1,7 @@
-Matlab_Analysis
+SoundProcessing_MatlabFunctions
 ===============
 
-Matlab analysis and plotting functions
+Matlab sound analysis and plotting functions
 
 These are Mathworks Matlab functions for use in plotting and analyzing wav files.  
 
